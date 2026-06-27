@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Amneg/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Amneg/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Amneg/LeetCode/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Amneg/LeetCode/tree/master/0015-3sum) |
 | [0234-palindrome-linked-list](https://github.com/Amneg/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amneg/LeetCode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Amneg/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
