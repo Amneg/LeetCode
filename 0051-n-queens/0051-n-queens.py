@@ -3,30 +3,29 @@ class Solution:
         res = []
         board = [['.'] * n for _ in range(n)]
 
-        cols = set()
-        diag1 = set()
-        diag2 = set()
+        cols = [False] * n
+        diag1 = [False] * (2 * n - 1)
+        diag2 = [False] * (2 * n - 1)
 
-        def backtrack(row):
-            if row == n:
-                res.append([''.join(r) for r in board])
+        def dfs(r):
+            if r == n:
+                res.append([''.join(row) for row in board])
                 return
 
-            for col in range(n):
-                if col in cols or (row - col) in diag1 or (row + col) in diag2:
+            for c in range(n):
+                d1 = r - c + n - 1
+                d2 = r + c
+
+                if cols[c] or diag1[d1] or diag2[d2]:
                     continue
 
-                board[row][col] = 'Q'
-                cols.add(col)
-                diag1.add(row - col)
-                diag2.add(row + col)
+                cols[c] = diag1[d1] = diag2[d2] = True
+                board[r][c] = 'Q'
 
-                backtrack(row + 1)
+                dfs(r + 1)
 
-                board[row][col] = '.'
-                cols.remove(col)
-                diag1.remove(row - col)
-                diag2.remove(row + col)
+                board[r][c] = '.'
+                cols[c] = diag1[d1] = diag2[d2] = False
 
-        backtrack(0)
+        dfs(0)
         return res
