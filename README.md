@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Amneg/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Amneg/LeetCode/tree/master/0015-3sum) |
 | [0051-n-queens](https://github.com/Amneg/LeetCode/tree/master/0051-n-queens) |
+| [0088-merge-sorted-array](https://github.com/Amneg/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Amneg/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amneg/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/Amneg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Amneg/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Amneg/LeetCode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Amneg/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
