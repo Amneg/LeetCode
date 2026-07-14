@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Amneg/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Amneg/LeetCode/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Amneg/LeetCode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Amneg/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Amneg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Amneg/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Amneg/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Amneg/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Amneg/LeetCode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Amneg/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
