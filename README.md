@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Amneg/LeetCode/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Amneg/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Amneg/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Amneg/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Amneg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Amneg/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Amneg/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Amneg/LeetCode/tree/master/0078-subsets) |
 ## Union-Find
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amneg/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Amneg/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
